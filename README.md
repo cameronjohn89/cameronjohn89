@@ -32,7 +32,7 @@ Here on GitHub, you’ll find projects that reflect my dedication to learning, p
 - Looking for entry/junior level jobs in Sydney, NSW
 - Working part time within the climbing industry - his other passion
 
-## 💬 Cameron has previously...
+## ⚒️ Cameron has previously...
 
 - Desk Staff/Hold Washing @ 9 Degrees Alexandria - 2022-Present
 - Physio Aide @ Mark Moran - 2022-2025
