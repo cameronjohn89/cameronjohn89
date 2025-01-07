@@ -9,8 +9,7 @@
       src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
-
-  <a
+    <a
   href="https://discordapp.com/users/cameronjohn89#3491"
   target="_blank">
   <img
